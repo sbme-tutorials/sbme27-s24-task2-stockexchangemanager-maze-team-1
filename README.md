@@ -3,3 +3,13 @@
 # Stock Exchange Manager
 # MAZE Team
 Java Starter Repo with common IDE folders get ignored.
+
+١- الحسين ايمن حنفى محمد           SEC.1  9230235
+
+٢- زياد رمضان محمد محمد           SEC.1  9230395
+
+٣- عبدالله محمد خليفة منصور          SEC.2  9230563
+
+٤- احمد صلاح جيوشى عبدالفتاح الشناوي   9230146  SEC.1
+
+٥- محمد خالد عبدالحميد عبدالحميد مندور   SEC.2  9230759
