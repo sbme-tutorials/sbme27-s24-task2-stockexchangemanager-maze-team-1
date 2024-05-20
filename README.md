@@ -13,6 +13,8 @@ Java Starter Repo with common IDE folders get ignored.
 ٤- احمد صلاح جيوشى عبدالفتاح الشناوي   9230146  SEC.1
 
 ٥- محمد خالد عبدالحميد عبدالحميد مندور   SEC.2  9230759
+
+Here are some pictures of the project after operation.
 ![1](https://github.com/sbme-tutorials/sbme27-s24-task2-stockexchangemanager-maze-team-1/assets/165908587/e765e86d-42b3-448e-ad69-2699d8c8431e)
 ![2](https://github.com/sbme-tutorials/sbme27-s24-task2-stockexchangemanager-maze-team-1/assets/165908587/49e0c64b-25ba-47f2-b78e-8aeb6551a59e)
 ![3](https://github.com/sbme-tutorials/sbme27-s24-task2-stockexchangemanager-maze-team-1/assets/165908587/1e45e751-7cbd-44ed-860f-4ec53a45f81c)
