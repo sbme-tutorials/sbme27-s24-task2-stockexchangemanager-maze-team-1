@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="570.0" minWidth="900.0" prefHeight="665.0" prefWidth="1163.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="TransactionController">
+   <left>
+      <AnchorPane prefHeight="511.0" prefWidth="198.0" stylesheets="@pageDesign.css" BorderPane.alignment="CENTER">
+         <children>
+            <Button fx:id="Homebutton" layoutX="23.0" layoutY="117.0" mnemonicParsing="false" onAction="#SwitchToHomeScene" prefHeight="26.0" prefWidth="151.0" styleClass="nav-btn-12" stylesheets="@pageDesign.css" text="Home">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Button>
+            <Button fx:id="UserScreen2_orderstocks" layoutX="23.0" layoutY="158.0" mnemonicParsing="false" onAction="#switchtostockscreen" prefHeight="26.0" prefWidth="151.0" styleClass="nav-btn-12" stylesheets="@pageDesign.css" text="Buy&amp;Sell Stocks">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Button>
+            <Button fx:id="Deposit" layoutX="23.0" layoutY="200.0" mnemonicParsing="false" onAction="#switchtodepositscreen" prefHeight="26.0" prefWidth="151.0" styleClass="nav-btn-12" stylesheets="@pageDesign.css" text="Deposit&amp;Withdrawal">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Button>
+            <Button fx:id="UserPricehistory" layoutX="23.0" layoutY="240.0" mnemonicParsing="false" onAction="#switchtoPriceHistoryScreen" prefHeight="26.0" prefWidth="151.0" styleClass="nav-btn-12" stylesheets="@pageDesign.css" text="Price History">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Button>
+            <Button fx:id="Transactionburron" layoutX="23.0" layoutY="282.0" mnemonicParsing="false" onAction="#switchToTransaction" prefHeight="26.0" prefWidth="151.0" styleClass="nav-btn-12" stylesheets="@pageDesign.css" text="Transaction History">
+               <font>
+                  <Font size="9.0" />
+               </font>
+            </Button>
+            <ImageView fitHeight="21.0" fitWidth="21.0" layoutX="35.0" layoutY="122.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@photos/Untitled-1.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="74.0" fitWidth="62.0" layoutX="68.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@photos/user.png" />
+               </image>
+            </ImageView>
+            <Label layoutX="77.0" layoutY="81.0" prefHeight="27.0" prefWidth="43.0" text="Hello" textFill="WHITE">
+               <font>
+                  <Font size="18.0" />
+               </font></Label>
+         </children>
+         <styleClass>
+            <String fx:value="nav-btn-1" />
+            <String fx:value="shadow" />
+         </styleClass>
+      </AnchorPane>
+   </left>
+   <center>
+      <AnchorPane prefHeight="897.0" prefWidth="1072.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label layoutX="391.0" layoutY="227.0" prefHeight="35.0" prefWidth="184.0" text="My Transaction" textAlignment="CENTER">
+               <font>
+                  <Font name="Century" size="24.0" />
+               </font>
+            </Label>
+            <TableView fx:id="TransactionTable" layoutY="458.0" prefHeight="181.0" prefWidth="965.0" stylesheets="@pageDesign.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="458.0">
+              <columns>
+                <TableColumn fx:id="StateCol" prefWidth="151.0" sortable="false" text="State" />
+                <TableColumn fx:id="StocknameCol" prefWidth="139.0" sortable="false" text="Stock name" />
+                  <TableColumn fx:id="PriceCol" prefWidth="160.0" sortable="false" text="Stock Price" />
+                  <TableColumn fx:id="StockNumCol" prefWidth="149.0" sortable="false" text="Stocks' number " />
+                  <TableColumn fx:id="totalPriceCol" prefWidth="194.0" sortable="false" text="Total Price" />
+                  <TableColumn fx:id="TimeCol" prefWidth="205.0" sortable="false" text="Time" />
+              </columns>
+               <columnResizePolicy>
+                  <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+               </columnResizePolicy>
+            </TableView>
+         </children></AnchorPane>
+   </center>
+   <top>
+      <AnchorPane prefHeight="26.0" prefWidth="900.0" style="-fx-background-color: #dbecf2;" styleClass="shadow" stylesheets="@pageDesign.css" BorderPane.alignment="CENTER">
+         <children>
+            <Label layoutX="19.0" layoutY="4.0" prefHeight="19.0" prefWidth="174.0" text="Stock Market : Transaction" textFill="#346886">
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+   </top>
+</BorderPane>
