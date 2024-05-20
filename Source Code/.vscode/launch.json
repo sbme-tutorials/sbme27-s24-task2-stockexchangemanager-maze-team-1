@@ -6,14 +6,6 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "Main",
-            "projectName": "sbme27-s24-task2-stockexchangemanager-maze-team-1_c70ea0cc",
-            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-21.0.3/lib\" --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web"
-        },
-        {
-            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}",
@@ -23,9 +15,17 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
-            "mainClass": "Main",
-            "projectName": "Stock_Mangment_55536a77",
+            "mainClass": "ClassesLogic.Main",
+            "projectName": "Source Code_5af5560f",
             "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-21.0.3/lib\" --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web"
+
+        },
+        {
+            "type": "java",
+            "name": "Noti",
+            "request": "launch",
+            "mainClass": "ClassesLogic.Noti",
+            "projectName": "Source Code_5af5560f"
         }
     ]
 }

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c8fccc8-6ecd-4b7d-b08f-ab8a7092c529" name="Changes" comment="我們快要淹死了">
+      <change beforePath="$PROJECT_DIR$/out/production/stock_manager/StocksCsv/AAPL.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stock_manager/StocksCsv/AAPL.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stock_manager/StocksCsv/AMZN.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stock_manager/StocksCsv/AMZN.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stock_manager/StocksCsv/GOOG.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stock_manager/StocksCsv/GOOG.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stock_manager/StocksFile.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stock_manager/StocksFile.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stock_manager/UserStocks/a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stock_manager/UserStocks/a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stock_manager/UserTransaction/a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stock_manager/UserTransaction/a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stock_manager/Users_information.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stock_manager/Users_information.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StocksCsv/AMZN.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/StocksCsv/AMZN.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StocksCsv/GOOG.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/StocksCsv/GOOG.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StocksFile.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/StocksFile.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserStocks/a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserStocks/a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserStocks/z.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserStocks/z.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserTransaction/a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserTransaction/a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserTransaction/z.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserTransaction/z.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User_information_temp.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Users_information.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/Users_information.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;amkma&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MuhammadMandour/Stock_Mangment.git&quot;,
+    &quot;accountId&quot;: &quot;411d860a-0685-48f6-99d5-ace09545b0ce&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2gYxxfJIbudJfhBIYL5DSs7K57l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ExportFunctionality.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loggr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Noti.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Proojects\Stock_Mangment\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Loggr">
+    <configuration name="Loggr" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="stock_manager" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-21.0.3\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Noti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassesLogic.Noti" />
+      <module name="stock_manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassesLogic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Noti" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c8fccc8-6ecd-4b7d-b08f-ab8a7092c529" name="Changes" comment="" />
+      <created>1715888560152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715888560152</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠١" summary="الشناوي">
+      <option name="closed" value="true" />
+      <created>1715889668413</created>
+      <option name="number" value="٠٠٠٠١" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠١" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1715889668413</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٢" summary="الشناوي">
+      <option name="closed" value="true" />
+      <created>1715890864303</created>
+      <option name="number" value="٠٠٠٠٢" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٢" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1715890864303</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٣" summary="ولا تزعل يعم مندور">
+      <option name="closed" value="true" />
+      <created>1715937779978</created>
+      <option name="number" value="٠٠٠٠٣" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٣" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1715937779978</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٤" summary="مترد يشناوي العرص">
+      <option name="closed" value="true" />
+      <created>1715960199483</created>
+      <option name="number" value="٠٠٠٠٤" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٤" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1715960199483</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٥" summary="مترد يشناوي العرص">
+      <option name="closed" value="true" />
+      <created>1715980270573</created>
+      <option name="number" value="٠٠٠٠٥" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٥" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1715980270573</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٦" summary="يارب">
+      <option name="closed" value="true" />
+      <created>1716024801058</created>
+      <option name="number" value="٠٠٠٠٦" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٦" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1716024801058</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٧" summary="我們快要淹死了">
+      <option name="closed" value="true" />
+      <created>1716034244577</created>
+      <option name="number" value="٠٠٠٠٧" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٧" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1716034244577</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٨" summary="我們快要淹死了">
+      <option name="closed" value="true" />
+      <created>1716038795187</created>
+      <option name="number" value="٠٠٠٠٨" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٨" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1716038795187</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="الشناوي" />
+    <MESSAGE value="ولا تزعل يعم مندور" />
+    <MESSAGE value="مترد يشناوي العرص" />
+    <MESSAGE value="يارب" />
+    <MESSAGE value="我們快要淹死了" />
+    <option name="LAST_COMMIT_MESSAGE" value="我們快要淹死了" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.FileNotFoundException" package="java.io" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -55,7 +55,7 @@ public abstract class User {
     }
 
     //
-    private static final String CSV_FILE = "src\\Users_information.csv";
+    private static final String CSV_FILE = "src\\1_deliverable\\Users_information.csv";
 
     public static void createUser(User user) {
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(CSV_FILE, true))) {

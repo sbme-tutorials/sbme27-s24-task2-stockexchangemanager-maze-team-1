@@ -13,7 +13,7 @@ public class Noti {
     public void displayStockPriceChange(String stockName, float oldPrice, float newPrice) throws AWTException {
         if (SystemTray.isSupported()) {
             SystemTray tray = SystemTray.getSystemTray();
-            Image image = Toolkit.getDefaultToolkit().createImage("icon.png");
+            Image image = Toolkit.getDefaultToolkit().createImage("1_deliverable\\icon.png");
 
             TrayIcon trayIcon = new TrayIcon(image, "Stock App");
             trayIcon.setImageAutoSize(true);

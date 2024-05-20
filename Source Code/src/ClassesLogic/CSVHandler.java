@@ -80,7 +80,7 @@ public class CSVHandler {
     }
 
     public void writeUser(String username, String email, String password, float balance, boolean isPremium) {
-        String filename = "user_information.csv";
+        String filename = "1_deliverable\\user_information.csv";
 
         try {
             FileWriter fw = new FileWriter(filename, true);
@@ -164,7 +164,7 @@ public class CSVHandler {
     }
 
     public void modifyUser(String username, float deposit, boolean isPremium) {
-        List<String> records = this.readCSV("user_information.csv");
+        List<String> records = this.readCSV("1_deliverable\\user_information.csv");
         List<String> updatedRecords = new ArrayList();
 
         String record;
@@ -178,7 +178,7 @@ public class CSVHandler {
         }
 
         try {
-            FileWriter fw = new FileWriter("user_information.csv", false);
+            FileWriter fw = new FileWriter("1_deliverable\\user_information.csv", false);
 
             try {
                 BufferedWriter bw = new BufferedWriter(fw);
