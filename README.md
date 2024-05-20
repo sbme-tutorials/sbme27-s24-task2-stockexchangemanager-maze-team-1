@@ -16,7 +16,7 @@ Java Starter Repo with common IDE folders get ignored.
 
 Here are some pictures of the project after operation.
 
-![1](https://github.com/sbme-tutorials/sbme27-s24-task2-stockexchangemanager-maze-team-1/assets/165908587/e765e86d-42b3-448e-ad69-2699d8c8431e)
+![1](https://github.com/sbme-tutorials/sbme27-s24-task2-stockexchangemanager-maze-team-1/assets/165908587/878c2e8a-c3f1-49d4-a9f8-7c3db448aa3d)
 
 ![2](https://github.com/sbme-tutorials/sbme27-s24-task2-stockexchangemanager-maze-team-1/assets/165908587/49e0c64b-25ba-47f2-b78e-8aeb6551a59e)
 
